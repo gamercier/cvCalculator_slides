@@ -11,8 +11,8 @@ framework: io2012          # {io2012, html5slides, shower, dzslides, ...}
 widgets: [mathjax]         # {quiz, bootstrap}
 output:
    ioslides_presentation:
-     fig_height: 6
-     fig_width: 7
+     fig_height: 4
+     fig_width: 5
      keep_md: yes
 ---
 
@@ -40,13 +40,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 ## Example Input and Output
-using knitr chunk for Output
 
-![](./figures/cvcalc_screen_small.png)
+![](./figures/cvcalc_screen_smaller.png)
 
 ```{r echo = FALSE}
 source("./src/cvcalc.R")
 print(paste0("10-year cardiovascular risk: ",round(cvcalc("Female","Other",pack.obs(55,200,40,0,120,0,0)),1),"%"))
+print("Output from embedded R code")
 ```
 
 ---

@@ -11,8 +11,8 @@ framework: io2012          # {io2012, html5slides, shower, dzslides, ...}
 widgets: [mathjax]         # {quiz, bootstrap}
 output:
    ioslides_presentation:
-     fig_height: 6
-     fig_width: 7
+     fig_height: 4
+     fig_width: 5
      keep_md: yes
 ---
 
@@ -38,13 +38,16 @@ output:
 ---
 
 ## Example Input and Output
-using knitr chunk for Output
 
-![](./figures/cvcalc_screen_small.png)
+![](./figures/cvcalc_screen_smaller.png)
 
 
 ```
 ## [1] "10-year cardiovascular risk: 2.4%"
+```
+
+```
+## [1] "Output from embedded R code"
 ```
 
 ---
