@@ -45,8 +45,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r echo = FALSE}
 source("./src/cvcalc.R")
-print(paste0("10-year cardiovascular risk: ",round(cvcalc("Female","Other",pack.obs(55,200,40,0,120,0,0)),1),"%"))
-print("Output from embedded R code")
+print(paste0("10-year cardiovascular risk: ",round(cvcalc("Female","Other",pack.obs(55,200,40,0,120,0,0)),1),"%",
+             " (embedded R code)"))
 ```
 
 ---

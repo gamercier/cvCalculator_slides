@@ -43,11 +43,7 @@ output:
 
 
 ```
-## [1] "10-year cardiovascular risk: 2.4%"
-```
-
-```
-## [1] "Output from embedded R code"
+## [1] "10-year cardiovascular risk: 2.4% (embedded R code)"
 ```
 
 ---
