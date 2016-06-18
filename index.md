@@ -56,3 +56,5 @@ output:
     + The user interface follows common browser standards so instructions are nearly unnecessary.
 * This is illustrated in WEBSITE
 * An example of an end-product using javascript is available at [www.cvriskcalculator.com](www.cvriskcalculator.com/)
+
+Slides hosted in [github](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
