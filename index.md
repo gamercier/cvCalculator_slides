@@ -55,6 +55,6 @@ output:
 * The widgets allow for clean input of the necessary parameters such as age and sex.
     + The user interface follows common browser standards so instructions are nearly unnecessary.
 * This is illustrated in WEBSITE
-* An example of an end-product using javascript is available at [www.cvriskcalculator.com](www.cvriskcalculator.com/)
+* An example of an end-product using javascript is available at [cvriskcalculator](http://www.cvriskcalculator.com/)
 
 Slidy source hosted in [github](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
