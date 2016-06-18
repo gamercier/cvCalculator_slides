@@ -38,6 +38,7 @@ output:
 ---
 
 ## Example Input and Output
+using knitr chunk for Output
 
 ![](./figures/cvcalc_screen_small.png)
 
@@ -57,4 +58,4 @@ output:
 * This is illustrated in WEBSITE
 * An example of an end-product using javascript is available at [www.cvriskcalculator.com](www.cvriskcalculator.com/)
 
-Slides hosted in [github](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
+Slidy source hosted in [github](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
