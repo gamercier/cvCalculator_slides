@@ -2,7 +2,7 @@
 title: "Cardiovascular Risk Calculator"
 subtitle: "10-year risk of heart attack or stroke"
 author: "Gustavo Mercier"
-date: "2016-06-16"
+date: "2016-06-19"
 job: Developing Data Products - Coursera course
 mode: selfcontained        # {standalone, draft}
 highlighter: highlight.js  # {prettify, highlight}
@@ -54,7 +54,9 @@ output:
 * The speed allows for creation of multiple prototypes.
 * The widgets allow for clean input of the necessary parameters such as age and sex.
     + The user interface follows common browser standards so instructions are nearly unnecessary.
-* This is illustrated in WEBSITE
-* An example of an end-product using javascript is available at [cvriskcalculator](http://www.cvriskcalculator.com/)
+* The shiny app protototype is hosted in [cvCalculator](https://gamercier.shinyapps.io/cvCalculator/)
+* An example of the end-product from the AHA/ACC, using javascript, is available at [cvriskcalculator](http://www.cvriskcalculator.com/)
 
-Slidy source hosted in [github](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
+Slidy source hosted in [github cvCalculator_slides](https://github.com/gamercier/cvCalculator_slides/tree/gh-pages)
+
+Shiny app source hosted in [github cvCalculator](https://github.com/gamercier/cvCalculator)
