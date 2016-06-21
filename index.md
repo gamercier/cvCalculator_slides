@@ -1,20 +1,6 @@
----
-title: "Cardiovascular Risk Calculator"
-subtitle: "10-year risk of heart attack or stroke"
-author: "Gustavo Mercier"
-date: "2016-06-19"
-job: Developing Data Products - Coursera course
-mode: selfcontained        # {standalone, draft}
-highlighter: highlight.js  # {prettify, highlight}
-hitheme: tomorrow          #
-framework: io2012          # {io2012, html5slides, shower, dzslides, ...}
-widgets: [mathjax]         # {quiz, bootstrap}
-output:
-   ioslides_presentation:
-     fig_height: 4
-     fig_width: 5
-     keep_md: yes
----
+# Cardiovascular Risk Calculator
+Gustavo Mercier  
+2016-06-19  
 
 
 
@@ -41,6 +27,7 @@ output:
 
 ![](./figures/cvcalc_screen_smaller.png)
 
+(Input panel to large to embed for interactive slide.)
 
 ```
 ## [1] "10-year cardiovascular risk: 2.4% (embedded R code)"
