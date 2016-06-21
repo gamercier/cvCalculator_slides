@@ -43,11 +43,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](./figures/cvcalc_screen_smaller.png)
 
-(Input panel to large to embed for interactive slide.)
+(Input panel to large to embed for interactive slide, but output is computed!)
 ```{r echo = FALSE}
 source("./src/cvcalc.R")
 print(paste0("10-year cardiovascular risk: ",round(cvcalc("Female","Other",pack.obs(55,200,40,0,120,0,0)),1),"%",
-             " (embedded R code)"))
+             " (embedded R code output)"))
 ```
 
 ---

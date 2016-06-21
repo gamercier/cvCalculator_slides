@@ -41,10 +41,10 @@ output:
 
 ![](./figures/cvcalc_screen_smaller.png)
 
-(Input panel to large to embed for interactive slide.)
+(Input panel to large to embed for interactive slide, but output is computed!)
 
 ```
-## [1] "10-year cardiovascular risk: 2.4% (embedded R code)"
+## [1] "10-year cardiovascular risk: 2.4% (embedded R code output)"
 ```
 
 ---
