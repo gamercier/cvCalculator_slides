@@ -1,19 +1,20 @@
 ---
 title: "Cardiovascular Risk Calculator"
-subtitle: "10-year risk of heart attack or stroke"
 author: "Gustavo Mercier"
-date: "2016-06-19"
-job: Developing Data Products - Coursera course
-mode: selfcontained        # {standalone, draft}
-highlighter: highlight.js  # {prettify, highlight}
-hitheme: tomorrow          #
-framework: io2012          # {io2012, html5slides, shower, dzslides, ...}
-widgets: [mathjax]         # {quiz, bootstrap}
+date: '2016-06-19'
 output:
-   ioslides_presentation:
-     fig_height: 4
-     fig_width: 5
-     keep_md: yes
+  ioslides_presentation:
+    fig_height: 4
+    fig_width: 5
+    keep_md: yes
+  slidy_presentation: default
+hitheme: tomorrow
+job: Developing Data Products - Coursera course
+mode: selfcontained
+highlighter: highlight.js
+subtitle: 10-year risk of heart attack or stroke
+framework: io2012
+widgets: mathjax
 ---
 
 ```{r setup, include=FALSE}

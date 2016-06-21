@@ -1,6 +1,21 @@
-# Cardiovascular Risk Calculator
-Gustavo Mercier  
-2016-06-19  
+---
+title: "Cardiovascular Risk Calculator"
+author: "Gustavo Mercier"
+date: '2016-06-19'
+output:
+  ioslides_presentation:
+    fig_height: 4
+    fig_width: 5
+    keep_md: yes
+  slidy_presentation: default
+hitheme: tomorrow
+job: Developing Data Products - Coursera course
+mode: selfcontained
+highlighter: highlight.js
+subtitle: 10-year risk of heart attack or stroke
+framework: io2012
+widgets: mathjax
+---
 
 
 
