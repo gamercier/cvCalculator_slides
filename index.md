@@ -25,7 +25,7 @@ output:
     + Physicians risk stratify and manage patients.
     + Educate patients about their risk and what they can do about it.
 * A web based calculator of such risk is a most useful tool.
-    + This is calculator prototyped using shiny is my project.
+    + This calculator is prototyped using shiny.
 
 ---
 
@@ -41,7 +41,7 @@ output:
 
 ![](./figures/cvcalc_screen_smaller.png)
 
-(Input panel to large to embed for interactive slide, but output is computed!)
+(Input panel too large to embed for interactive slide, but output is computed!)
 
 ```
 ## [1] "10-year cardiovascular risk: 2.4% (embedded R code output)"
